@@ -7,3 +7,5 @@ Dans le dossier server fait<br>
 
 ensuite<br>
 <b>npm start</b>
+<br>Ou<br>
+<b>nodemon start</b>
